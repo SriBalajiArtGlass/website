@@ -1,23 +1,23 @@
 {
     "images": [
-        "assets/1.jpg",
-        "assets/3.jpg",
-        "assets/4.jpg",
-        "assets/5.jpg",
-        "assets/6.jpg",
-        "assets/7.jpg",
-        "assets/8.jpg",
-        "assets/10.jpg",
-        "assets/11.jpg",     
-        "assets/14.jpg",
-        "assets/15.jpg",
-        "assets/17.jpg",
-        "assets/18.jpg",
-        "assets/19.jpg"
+        "website/assets/1.jpg",
+        "website/assets/3.jpg",
+        "website/assets/4.jpg",
+        "website/assets/5.jpg",
+        "website/assets/6.jpg",
+        "website/assets/7.jpg",
+        "website/assets/8.jpg",
+        "website/assets/10.jpg",
+        "website/assets/11.jpg",     
+        "website/assets/14.jpg",
+        "website/assets/15.jpg",
+        "website/assets/17.jpg",
+        "website/assets/18.jpg",
+        "website/assets/19.jpg"
     ],
      "categories": [
-    { "name": "Glass", "images": ["assets/1.jpg", "assets/8.jpg", "assets/7.jpg", "assets/6.jpg", "assets/6.jpg", "assets/7.jpg"] },
-    { "name": "SS Railings", "images": ["assets/8.jpg", "assets/9.jpg", "assets/10.jpg", "assets/11.jpg", "assets/12.jpg", "assets/13.jpg"] },
-    { "name": "Custom Designs", "images": ["assets/14.jpg", "assets/15.jpg", "assets/16.jpg", "assets/17.jpg", "assets/18.jpg", "assets/19.jpg"] }
+    { "name": "Glass", "images": ["website/assets/1.jpg", "website/assets/8.jpg", "website/assets/7.jpg", "website/assets/6.jpg", "website/assets/6.jpg", "website/assets/7.jpg"] },
+    { "name": "SS Railings", "images": ["website/assets/8.jpg", "website/assets/9.jpg", "website/assets/10.jpg", "website/assets/11.jpg", "website/assets/12.jpg", "website/assets/13.jpg"] },
+    { "name": "Custom Designs", "images": ["website/assets/14.jpg", "website/assets/15.jpg", "website/assets/16.jpg", "website/assets/17.jpg", "website/assets/18.jpg", "website/assets/19.jpg"] }
   ]
 }
